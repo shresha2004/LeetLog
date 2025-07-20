@@ -7,6 +7,7 @@ const SocialMediaCard = () => {
       style={{
         borderColor: '#f51524',
         boxShadow: '0 0 20px #f51524',
+        backgroundColor:'#171515ff',
       }}
     >
       <h2

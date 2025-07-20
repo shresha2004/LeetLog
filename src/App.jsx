@@ -53,7 +53,9 @@ function App() {
 
       {/* Foreground content */}
       <Header />
+      <div className='relative z-10 py-10'>
       <SocialMediaCard />
+      </div>
 
       <div className="relative z-0 mt-15">
         {/* Folders Grid */}
