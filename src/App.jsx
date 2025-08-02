@@ -25,6 +25,8 @@ function App() {
     'Sorting',
     'Stack&Queue',
     'Strings',
+    'BinaryTree',
+    'DynamicProgramming'
   ];
   useEffect(() => {
     if (shdScroll && selectFolders) {
